@@ -1,0 +1,5 @@
+[2025-09-25 18:15:02,680] 22 - INFO - Starting Data Ingestion Stage
+[2025-09-25 18:15:02,680] 23 - INFO - loading the file into a variable dataframe "raw_dataframe"
+[2025-09-25 18:15:04,483] 27 - INFO - Spliting the raw dataframe into training set and testing set
+[2025-09-25 18:15:04,782] 30 - INFO - Saving the train and test set files into artifacts folder
+[2025-09-25 18:15:11,158] 35 - INFO - Successfully executed data ingestion stage 
